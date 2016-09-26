@@ -1,0 +1,5339 @@
+fileFormatVersion: 2
+guid: 20517ffede3c27f4fa584baf72cab25a
+timeCreated: 1474848671
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 5447_0
+    21300002: 5447_1
+    21300004: 5447_2
+    21300006: 5447_3
+    21300008: 5447_4
+    21300010: 5447_5
+    21300012: 5447_6
+    21300014: 5447_7
+    21300016: 5447_8
+    21300018: 5447_9
+    21300020: 5447_10
+    21300022: 5447_11
+    21300024: 5447_12
+    21300026: 5447_13
+    21300028: 5447_14
+    21300030: 5447_15
+    21300032: 5447_16
+    21300034: 5447_17
+    21300036: 5447_18
+    21300038: 5447_19
+    21300040: 5447_20
+    21300042: 5447_21
+    21300044: 5447_22
+    21300046: 5447_23
+    21300048: 5447_24
+    21300050: 5447_25
+    21300052: 5447_26
+    21300054: 5447_27
+    21300056: 5447_28
+    21300058: 5447_29
+    21300060: 5447_30
+    21300062: 5447_31
+    21300064: 5447_32
+    21300066: 5447_33
+    21300068: 5447_34
+    21300070: 5447_35
+    21300072: 5447_36
+    21300074: 5447_37
+    21300076: 5447_38
+    21300078: 5447_39
+    21300080: 5447_40
+    21300082: 5447_41
+    21300084: 5447_42
+    21300086: 5447_43
+    21300088: 5447_44
+    21300090: 5447_45
+    21300092: 5447_46
+    21300094: 5447_47
+    21300096: 5447_48
+    21300098: 5447_49
+    21300100: 5447_50
+    21300102: 5447_51
+    21300104: 5447_52
+    21300106: 5447_53
+    21300108: 5447_54
+    21300110: 5447_55
+    21300112: 5447_56
+    21300114: 5447_57
+    21300116: 5447_58
+    21300118: 5447_59
+    21300120: 5447_60
+    21300122: 5447_61
+    21300124: 5447_62
+    21300126: 5447_63
+    21300128: 5447_64
+    21300130: 5447_65
+    21300132: 5447_66
+    21300134: 5447_67
+    21300136: 5447_68
+    21300138: 5447_69
+    21300140: 5447_70
+    21300142: 5447_71
+    21300144: 5447_72
+    21300146: 5447_73
+    21300148: 5447_74
+    21300150: 5447_75
+    21300152: 5447_76
+    21300154: 5447_77
+    21300156: 5447_78
+    21300158: 5447_79
+    21300160: 5447_80
+    21300162: 5447_81
+    21300164: 5447_82
+    21300166: 5447_83
+    21300168: 5447_84
+    21300170: 5447_85
+    21300172: 5447_86
+    21300174: 5447_87
+    21300176: 5447_88
+    21300178: 5447_89
+    21300180: 5447_90
+    21300182: 5447_91
+    21300184: 5447_92
+    21300186: 5447_93
+    21300188: 5447_94
+    21300190: 5447_95
+    21300192: 5447_96
+    21300194: 5447_97
+    21300196: 5447_98
+    21300198: 5447_99
+    21300200: 5447_100
+    21300202: 5447_101
+    21300204: 5447_102
+    21300206: 5447_103
+    21300208: 5447_104
+    21300210: 5447_105
+    21300212: 5447_106
+    21300214: 5447_107
+    21300216: 5447_108
+    21300218: 5447_109
+    21300220: 5447_110
+    21300222: 5447_111
+    21300224: 5447_112
+    21300226: 5447_113
+    21300228: 5447_114
+    21300230: 5447_115
+    21300232: 5447_116
+    21300234: 5447_117
+    21300236: 5447_118
+    21300238: 5447_119
+    21300240: 5447_120
+    21300242: 5447_121
+    21300244: 5447_122
+    21300246: 5447_123
+    21300248: 5447_124
+    21300250: 5447_125
+    21300252: 5447_126
+    21300254: 5447_127
+    21300256: 5447_128
+    21300258: 5447_129
+    21300260: 5447_130
+    21300262: 5447_131
+    21300264: 5447_132
+    21300266: 5447_133
+    21300268: 5447_134
+    21300270: 5447_135
+    21300272: 5447_136
+    21300274: 5447_137
+    21300276: 5447_138
+    21300278: 5447_139
+    21300280: 5447_140
+    21300282: 5447_141
+    21300284: 5447_142
+    21300286: 5447_143
+    21300288: 5447_144
+    21300290: 5447_145
+    21300292: 5447_146
+    21300294: 5447_147
+    21300296: 5447_148
+    21300298: 5447_149
+    21300300: 5447_150
+    21300302: 5447_151
+    21300304: 5447_152
+    21300306: 5447_153
+    21300308: 5447_154
+    21300310: 5447_155
+    21300312: 5447_156
+    21300314: 5447_157
+    21300316: 5447_158
+    21300318: 5447_159
+    21300320: 5447_160
+    21300322: 5447_161
+    21300324: 5447_162
+    21300326: 5447_163
+    21300328: 5447_164
+    21300330: 5447_165
+    21300332: 5447_166
+    21300334: 5447_167
+    21300336: 5447_168
+    21300338: 5447_169
+    21300340: 5447_170
+    21300342: 5447_171
+    21300344: 5447_172
+    21300346: 5447_173
+    21300348: 5447_174
+    21300350: 5447_175
+    21300352: 5447_176
+    21300354: 5447_177
+    21300356: 5447_178
+    21300358: 5447_179
+    21300360: 5447_180
+    21300362: 5447_181
+    21300364: 5447_182
+    21300366: 5447_183
+    21300368: 5447_184
+    21300370: 5447_185
+    21300372: 5447_186
+    21300374: 5447_187
+    21300376: 5447_188
+    21300378: 5447_189
+    21300380: 5447_190
+    21300382: 5447_191
+    21300384: 5447_192
+    21300386: 5447_193
+    21300388: 5447_194
+    21300390: 5447_195
+    21300392: 5447_196
+    21300394: 5447_197
+    21300396: 5447_198
+    21300398: 5447_199
+    21300400: 5447_200
+    21300402: 5447_201
+    21300404: 5447_202
+    21300406: 5447_203
+    21300408: 5447_204
+    21300410: 5447_205
+    21300412: 5447_206
+    21300414: 5447_207
+    21300416: 5447_208
+    21300418: 5447_209
+    21300420: 5447_210
+    21300422: 5447_211
+    21300424: 5447_212
+    21300426: 5447_213
+    21300428: 5447_214
+    21300430: 5447_215
+    21300432: 5447_216
+    21300434: 5447_217
+    21300436: 5447_218
+    21300438: 5447_219
+    21300440: 5447_220
+    21300442: 5447_221
+    21300444: 5447_222
+    21300446: 5447_223
+    21300448: 5447_224
+    21300450: 5447_225
+    21300452: 5447_226
+    21300454: 5447_227
+    21300456: 5447_228
+    21300458: 5447_229
+    21300460: 5447_230
+    21300462: 5447_231
+    21300464: 5447_232
+    21300466: 5447_233
+    21300468: 5447_234
+    21300470: 5447_235
+    21300472: 5447_236
+    21300474: 5447_237
+    21300476: 5447_238
+    21300478: 5447_239
+    21300480: 5447_240
+    21300482: 5447_241
+    21300484: 5447_242
+    21300486: 5447_243
+    21300488: 5447_244
+    21300490: 5447_245
+    21300492: 5447_246
+    21300494: 5447_247
+    21300496: 5447_248
+    21300498: 5447_249
+    21300500: 5447_250
+    21300502: 5447_251
+    21300504: 5447_252
+    21300506: 5447_253
+    21300508: 5447_254
+    21300510: 5447_255
+    21300512: 5447_256
+    21300514: 5447_257
+    21300516: 5447_258
+    21300518: 5447_259
+    21300520: 5447_260
+    21300522: 5447_261
+    21300524: 5447_262
+    21300526: 5447_263
+    21300528: 5447_264
+    21300530: 5447_265
+    21300532: 5447_266
+    21300534: 5447_267
+    21300536: 5447_268
+    21300538: 5447_269
+    21300540: 5447_270
+    21300542: 5447_271
+    21300544: 5447_272
+    21300546: 5447_273
+    21300548: 5447_274
+    21300550: 5447_275
+    21300552: 5447_276
+    21300554: 5447_277
+    21300556: 5447_278
+    21300558: 5447_279
+    21300560: 5447_280
+    21300562: 5447_281
+    21300564: 5447_282
+    21300566: 5447_283
+    21300568: 5447_284
+    21300570: 5447_285
+    21300572: 5447_286
+    21300574: 5447_287
+    21300576: 5447_288
+    21300578: 5447_289
+    21300580: 5447_290
+    21300582: 5447_291
+    21300584: 5447_292
+    21300586: 5447_293
+    21300588: 5447_294
+    21300590: 5447_295
+    21300592: 5447_296
+    21300594: 5447_297
+    21300596: 5447_298
+    21300598: 5447_299
+    21300600: 5447_300
+    21300602: 5447_301
+    21300604: 5447_302
+    21300606: 5447_303
+    21300608: 5447_304
+    21300610: 5447_305
+    21300612: 5447_306
+    21300614: 5447_307
+    21300616: 5447_308
+    21300618: 5447_309
+    21300620: 5447_310
+    21300622: 5447_311
+    21300624: 5447_312
+    21300626: 5447_313
+    21300628: 5447_314
+    21300630: 5447_315
+    21300632: 5447_316
+    21300634: 5447_317
+    21300636: 5447_318
+    21300638: 5447_319
+    21300640: 5447_320
+    21300642: 5447_321
+    21300644: 5447_322
+    21300646: 5447_323
+    21300648: 5447_324
+    21300650: 5447_325
+    21300652: 5447_326
+    21300654: 5447_327
+    21300656: 5447_328
+    21300658: 5447_329
+    21300660: 5447_330
+    21300662: 5447_331
+    21300664: 5447_332
+    21300666: 5447_333
+    21300668: 5447_334
+    21300670: 5447_335
+    21300672: 5447_336
+    21300674: 5447_337
+    21300676: 5447_338
+    21300678: 5447_339
+    21300680: 5447_340
+    21300682: 5447_341
+    21300684: 5447_342
+    21300686: 5447_343
+    21300688: 5447_344
+    21300690: 5447_345
+    21300692: 5447_346
+    21300694: 5447_347
+    21300696: 5447_348
+    21300698: 5447_349
+    21300700: 5447_350
+    21300702: 5447_351
+    21300704: PlayerSprite_0
+    21300706: PlayerSprite_1
+    21300708: PlayerSprite_2
+    21300710: PlayerSprite_3
+    21300712: PlayerSprite_4
+    21300714: PlayerSprite_5
+    21300716: PlayerSprite_6
+    21300718: PlayerSprite_7
+    21300720: PlayerSprite_8
+    21300722: PlayerSprite_9
+    21300724: PlayerSprite_10
+    21300726: PlayerSprite_11
+    21300728: PlayerSprite_12
+    21300730: PlayerSprite_13
+    21300732: PlayerSprite_14
+    21300734: PlayerSprite_15
+    21300736: PlayerSprite_16
+    21300738: PlayerSprite_17
+    21300740: PlayerSprite_18
+    21300742: PlayerSprite_19
+    21300744: PlayerSprite_20
+    21300746: PlayerSprite_21
+    21300748: PlayerSprite_22
+    21300750: PlayerSprite_23
+    21300752: PlayerSprite_24
+    21300754: PlayerSprite_25
+    21300756: PlayerSprite_26
+    21300758: PlayerSprite_27
+    21300760: PlayerSprite_28
+    21300762: PlayerSprite_29
+    21300764: PlayerSprite_30
+    21300766: PlayerSprite_31
+    21300768: PlayerSprite_32
+    21300770: PlayerSprite_33
+    21300772: PlayerSprite_34
+    21300774: PlayerSprite_35
+    21300776: PlayerSprite_36
+    21300778: PlayerSprite_37
+    21300780: PlayerSprite_38
+    21300782: PlayerSprite_39
+    21300784: PlayerSprite_40
+    21300786: PlayerSprite_41
+    21300788: PlayerSprite_42
+    21300790: PlayerSprite_43
+    21300792: PlayerSprite_44
+    21300794: PlayerSprite_45
+    21300796: PlayerSprite_46
+    21300798: PlayerSprite_47
+    21300800: PlayerSprite_48
+    21300802: PlayerSprite_49
+    21300804: PlayerSprite_50
+    21300806: PlayerSprite_51
+    21300808: PlayerSprite_52
+    21300810: PlayerSprite_53
+    21300812: PlayerSprite_54
+    21300814: PlayerSprite_55
+    21300816: PlayerSprite_56
+    21300818: PlayerSprite_57
+    21300820: PlayerSprite_58
+    21300822: PlayerSprite_59
+    21300824: PlayerSprite_60
+    21300826: PlayerSprite_61
+    21300828: PlayerSprite_62
+    21300830: PlayerSprite_63
+    21300832: PlayerSprite_64
+    21300834: PlayerSprite_65
+    21300836: PlayerSprite_66
+    21300838: PlayerSprite_67
+    21300840: PlayerSprite_68
+    21300842: PlayerSprite_69
+    21300844: PlayerSprite_70
+    21300846: PlayerSprite_71
+    21300848: PlayerSprite_72
+    21300850: PlayerSprite_73
+    21300852: PlayerSprite_74
+    21300854: PlayerSprite_75
+    21300856: PlayerSprite_76
+    21300858: PlayerSprite_77
+    21300860: PlayerSprite_78
+    21300862: PlayerSprite_79
+    21300864: PlayerSprite_80
+    21300866: PlayerSprite_81
+    21300868: PlayerSprite_82
+    21300870: PlayerSprite_83
+    21300872: PlayerSprite_84
+    21300874: PlayerSprite_85
+    21300876: PlayerSprite_86
+    21300878: PlayerSprite_87
+    21300880: PlayerSprite_88
+    21300882: PlayerSprite_89
+    21300884: PlayerSprite_90
+    21300886: PlayerSprite_91
+    21300888: PlayerSprite_92
+    21300890: PlayerSprite_93
+    21300892: PlayerSprite_94
+    21300894: PlayerSprite_95
+    21300896: PlayerSprite_96
+    21300898: PlayerSprite_97
+    21300900: PlayerSprite_98
+    21300902: PlayerSprite_99
+    21300904: PlayerSprite_100
+    21300906: PlayerSprite_101
+    21300908: PlayerSprite_102
+    21300910: PlayerSprite_103
+    21300912: PlayerSprite_104
+    21300914: PlayerSprite_105
+    21300916: PlayerSprite_106
+    21300918: PlayerSprite_107
+    21300920: PlayerSprite_108
+    21300922: PlayerSprite_109
+    21300924: PlayerSprite_110
+    21300926: PlayerSprite_111
+    21300928: PlayerSprite_112
+    21300930: PlayerSprite_113
+    21300932: PlayerSprite_114
+    21300934: PlayerSprite_115
+    21300936: PlayerSprite_116
+    21300938: PlayerSprite_117
+    21300940: PlayerSprite_118
+    21300942: PlayerSprite_119
+    21300944: PlayerSprite_120
+    21300946: PlayerSprite_121
+    21300948: PlayerSprite_122
+    21300950: PlayerSprite_123
+    21300952: PlayerSprite_124
+    21300954: PlayerSprite_125
+    21300956: PlayerSprite_126
+    21300958: PlayerSprite_127
+    21300960: PlayerSprite_128
+    21300962: PlayerSprite_129
+    21300964: PlayerSprite_130
+    21300966: PlayerSprite_131
+    21300968: PlayerSprite_132
+    21300970: PlayerSprite_133
+    21300972: PlayerSprite_134
+    21300974: PlayerSprite_135
+    21300976: PlayerSprite_136
+    21300978: PlayerSprite_137
+    21300980: PlayerSprite_138
+    21300982: PlayerSprite_139
+    21300984: PlayerSprite_140
+    21300986: PlayerSprite_141
+    21300988: PlayerSprite_142
+    21300990: PlayerSprite_143
+    21300992: PlayerSprite_144
+    21300994: PlayerSprite_145
+    21300996: PlayerSprite_146
+    21300998: PlayerSprite_147
+    21301000: PlayerSprite_148
+    21301002: PlayerSprite_149
+    21301004: PlayerSprite_150
+    21301006: PlayerSprite_151
+    21301008: PlayerSprite_152
+    21301010: PlayerSprite_153
+    21301012: PlayerSprite_154
+    21301014: PlayerSprite_155
+    21301016: PlayerSprite_156
+    21301018: PlayerSprite_157
+    21301020: PlayerSprite_158
+    21301022: PlayerSprite_159
+    21301024: PlayerSprite_160
+    21301026: PlayerSprite_161
+    21301028: PlayerSprite_162
+    21301030: PlayerSprite_163
+    21301032: PlayerSprite_164
+    21301034: PlayerSprite_165
+    21301036: PlayerSprite_166
+    21301038: PlayerSprite_167
+    21301040: PlayerSprite_168
+    21301042: PlayerSprite_169
+    21301044: PlayerSprite_170
+    21301046: PlayerSprite_171
+    21301048: PlayerSprite_172
+    21301050: PlayerSprite_173
+    21301052: PlayerSprite_174
+    21301054: PlayerSprite_175
+    21301056: PlayerSprite_176
+    21301058: PlayerSprite_177
+    21301060: PlayerSprite_178
+    21301062: PlayerSprite_179
+    21301064: PlayerSprite_180
+    21301066: PlayerSprite_181
+    21301068: PlayerSprite_182
+    21301070: PlayerSprite_183
+    21301072: PlayerSprite_184
+    21301074: PlayerSprite_185
+    21301076: PlayerSprite_186
+    21301078: PlayerSprite_187
+    21301080: PlayerSprite_188
+    21301082: PlayerSprite_189
+    21301084: PlayerSprite_190
+    21301086: PlayerSprite_191
+    21301088: PlayerSprite_192
+    21301090: PlayerSprite_193
+    21301092: PlayerSprite_194
+    21301094: PlayerSprite_195
+    21301096: PlayerSprite_196
+    21301098: PlayerSprite_197
+    21301100: PlayerSprite_198
+    21301102: PlayerSprite_199
+    21301104: PlayerSprite_200
+    21301106: PlayerSprite_201
+    21301108: PlayerSprite_202
+    21301110: PlayerSprite_203
+    21301112: PlayerSprite_204
+    21301114: PlayerSprite_205
+    21301116: PlayerSprite_206
+    21301118: PlayerSprite_207
+    21301120: PlayerSprite_208
+    21301122: PlayerSprite_209
+    21301124: PlayerSprite_210
+    21301126: PlayerSprite_211
+    21301128: PlayerSprite_212
+    21301130: PlayerSprite_213
+    21301132: PlayerSprite_214
+    21301134: PlayerSprite_215
+    21301136: PlayerSprite_216
+    21301138: PlayerSprite_217
+    21301140: PlayerSprite_218
+    21301142: PlayerSprite_219
+    21301144: PlayerSprite_220
+    21301146: PlayerSprite_221
+    21301148: PlayerSprite_222
+    21301150: PlayerSprite_223
+    21301152: PlayerSprite_224
+    21301154: PlayerSprite_225
+    21301156: PlayerSprite_226
+    21301158: PlayerSprite_227
+    21301160: PlayerSprite_228
+    21301162: PlayerSprite_229
+    21301164: PlayerSprite_230
+    21301166: PlayerSprite_231
+    21301168: PlayerSprite_232
+    21301170: PlayerSprite_233
+    21301172: PlayerSprite_234
+    21301174: PlayerSprite_235
+    21301176: PlayerSprite_236
+    21301178: PlayerSprite_237
+    21301180: PlayerSprite_238
+    21301182: PlayerSprite_239
+    21301184: PlayerSprite_240
+    21301186: PlayerSprite_241
+    21301188: PlayerSprite_242
+    21301190: PlayerSprite_243
+    21301192: PlayerSprite_244
+    21301194: PlayerSprite_245
+    21301196: PlayerSprite_246
+    21301198: PlayerSprite_247
+    21301200: PlayerSprite_248
+    21301202: PlayerSprite_249
+    21301204: PlayerSprite_250
+    21301206: PlayerSprite_251
+    21301208: PlayerSprite_252
+    21301210: PlayerSprite_253
+    21301212: PlayerSprite_254
+    21301214: PlayerSprite_255
+    21301216: PlayerSprite_256
+    21301218: PlayerSprite_257
+    21301220: PlayerSprite_258
+    21301222: PlayerSprite_259
+    21301224: PlayerSprite_260
+    21301226: PlayerSprite_261
+    21301228: PlayerSprite_262
+    21301230: PlayerSprite_263
+    21301232: PlayerSprite_264
+    21301234: PlayerSprite_265
+    21301236: PlayerSprite_266
+    21301238: PlayerSprite_267
+    21301240: PlayerSprite_268
+    21301242: PlayerSprite_269
+    21301244: PlayerSprite_270
+    21301246: PlayerSprite_271
+    21301248: PlayerSprite_272
+    21301250: PlayerSprite_273
+    21301252: PlayerSprite_274
+    21301254: PlayerSprite_275
+    21301256: PlayerSprite_276
+    21301258: PlayerSprite_277
+    21301260: PlayerSprite_278
+    21301262: PlayerSprite_279
+    21301264: PlayerSprite_280
+    21301266: PlayerSprite_281
+    21301268: PlayerSprite_282
+    21301270: PlayerSprite_283
+    21301272: PlayerSprite_284
+    21301274: PlayerSprite_285
+    21301276: PlayerSprite_286
+    21301278: PlayerSprite_287
+    21301280: PlayerSprite_288
+    21301282: PlayerSprite_289
+    21301284: PlayerSprite_290
+    21301286: PlayerSprite_291
+    21301288: PlayerSprite_292
+    21301290: PlayerSprite_293
+    21301292: PlayerSprite_294
+    21301294: PlayerSprite_295
+    21301296: PlayerSprite_296
+    21301298: PlayerSprite_297
+    21301300: PlayerSprite_298
+    21301302: PlayerSprite_299
+    21301304: PlayerSprite_300
+    21301306: PlayerSprite_301
+    21301308: PlayerSprite_302
+    21301310: PlayerSprite_303
+    21301312: PlayerSprite_304
+    21301314: PlayerSprite_305
+    21301316: PlayerSprite_306
+    21301318: PlayerSprite_307
+    21301320: PlayerSprite_308
+    21301322: PlayerSprite_309
+    21301324: PlayerSprite_310
+    21301326: PlayerSprite_311
+    21301328: PlayerSprite_312
+    21301330: PlayerSprite_313
+    21301332: PlayerSprite_314
+    21301334: PlayerSprite_315
+    21301336: PlayerSprite_316
+    21301338: PlayerSprite_317
+    21301340: PlayerSprite_318
+    21301342: PlayerSprite_319
+    21301344: PlayerSprite_320
+    21301346: PlayerSprite_321
+    21301348: PlayerSprite_322
+    21301350: PlayerSprite_323
+    21301352: PlayerSprite_324
+    21301354: PlayerSprite_325
+    21301356: PlayerSprite_326
+    21301358: PlayerSprite_327
+    21301360: PlayerSprite_328
+    21301362: PlayerSprite_329
+    21301364: PlayerSprite_330
+    21301366: PlayerSprite_331
+    21301368: PlayerSprite_332
+    21301370: PlayerSprite_333
+    21301372: PlayerSprite_334
+    21301374: PlayerSprite_335
+    21301376: PlayerSprite_336
+    21301378: PlayerSprite_337
+    21301380: PlayerSprite_338
+    21301382: PlayerSprite_339
+    21301384: PlayerSprite_340
+    21301386: PlayerSprite_341
+    21301388: PlayerSprite_342
+    21301390: PlayerSprite_343
+    21301392: PlayerSprite_344
+    21301394: PlayerSprite_345
+    21301396: PlayerSprite_346
+    21301398: PlayerSprite_347
+    21301400: PlayerSprite_348
+    21301402: PlayerSprite_349
+    21301404: PlayerSprite_350
+    21301406: PlayerSprite_351
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerSprite_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 854
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 854
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 855
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 855
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 855
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 853
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 855
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 855
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 855
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 855
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_10
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 855
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_11
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 856
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_12
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 856
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 856
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_14
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 854
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_15
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 857
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_16
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 857
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_17
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 857
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 805
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 805
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 805
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_21
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 805
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 805
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_23
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 805
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_24
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 805
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_25
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 805
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_26
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 805
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_27
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 805
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_28
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 805
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_29
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 805
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_30
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 805
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_31
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 805
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_32
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 805
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_33
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 805
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_34
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 812
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_35
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 820
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_36
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 813
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_37
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 807
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_38
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 805
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 784
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_40
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 782
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_41
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 784
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_42
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 784
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_43
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 784
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_44
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 784
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_45
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 784
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_46
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 784
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_47
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 782
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_48
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 784
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_49
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 782
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 728
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_51
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 727
+        width: 43
+        height: 44
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_52
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 728
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 728
+        width: 41
+        height: 44
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_54
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 728
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_55
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 728
+        width: 66
+        height: 40
+      alignment: 9
+      pivot: {x: 0.15, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_56
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 728
+        width: 82
+        height: 40
+      alignment: 9
+      pivot: {x: 0.15, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_57
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 723
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_58
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 724
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_59
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 739
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_60
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 739
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_61
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 739
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_62
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 739
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_63
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 739
+        width: 80
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_64
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 702
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_65
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 702
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_66
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 702
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_67
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 702
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_68
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 702
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_69
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 702
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_70
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 702
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_71
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 697
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_72
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 697
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_73
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 695
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_74
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 692
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_75
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 692
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_76
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 692
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_77
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 692
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_78
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_79
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_80
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 693
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_81
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 693
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_82
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 693
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_83
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 693
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_84
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 693
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_85
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 693
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_86
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 693
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_87
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 691
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_88
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 692
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_89
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 692
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_90
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 692
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_91
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 690
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_92
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 692
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_93
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 692
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_94
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 692
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_95
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 692
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_96
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 635
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_97
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 635
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_98
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 635
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_99
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 635
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_100
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 635
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_101
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 635
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_102
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 635
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_103
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 644
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_104
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 635
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_105
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 635
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_106
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 635
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_107
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 635
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_108
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 635
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_109
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 646
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_110
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 637
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_111
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 637
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_112
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 634
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_113
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 634
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_114
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 634
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_115
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 635
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_116
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 633
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_117
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 633
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_118
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 635
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_119
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 635
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_120
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 635
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_121
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 633
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_122
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 633
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_123
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 603
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_124
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 603
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_125
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 603
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_126
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 601
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_127
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 603
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_128
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 601
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_129
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 603
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_130
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 603
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_131
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 603
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_132
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 547
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_133
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 546
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_134
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 547
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_135
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 547
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_136
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 547
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_137
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 546
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_138
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 547
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_139
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 547
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_140
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 547
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_141
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 546
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_142
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 546
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_143
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 546
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_144
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 546
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_145
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 546
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_146
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 546
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_147
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 546
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_148
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 575
+        width: 48
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_149
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 546
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_150
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 546
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_151
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 546
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_152
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 546
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_153
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 546
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_154
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 546
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_155
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 546
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_156
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 546
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_157
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 518
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_158
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 518
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_159
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 518
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_160
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 516
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_161
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 518
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_162
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 518
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_163
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 518
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_164
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 518
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_165
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 518
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_166
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 518
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_167
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 518
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_168
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 461
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_169
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 461
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_170
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 461
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_171
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 462
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_172
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 461
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_173
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 461
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_174
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 461
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_175
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 462
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_176
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 461
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_177
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 461
+        width: 32
+        height: 45
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_178
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 461
+        width: 41
+        height: 45
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_179
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 461
+        width: 44
+        height: 45
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_180
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 461
+        width: 41
+        height: 47
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_181
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 461
+        width: 42
+        height: 41
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_182
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 461
+        width: 66
+        height: 41
+      alignment: 9
+      pivot: {x: 0.15, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_183
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 461
+        width: 82
+        height: 41
+      alignment: 9
+      pivot: {x: 0.15, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_184
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 461
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_185
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 461
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_186
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 461
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_187
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 461
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_188
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 461
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_189
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 461
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_190
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 461
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_191
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 461
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_192
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 432
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_193
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 432
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_194
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 432
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_195
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 430
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_196
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 396
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_197
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 436
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_198
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 436
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_199
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 436
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_200
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 436
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_201
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 398
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_202
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 399
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_203
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 398
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_204
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 399
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_205
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 397
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_206
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 398
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_207
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 401
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_208
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 400
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_209
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 420
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_210
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 419
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_211
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 394
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_212
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 400
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_213
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 399
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_214
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 394
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_215
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 367
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_216
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 365
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_217
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 367
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_218
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 367
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_219
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 367
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_220
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 367
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_221
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 298
+        width: 145
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_222
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 315
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_223
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 315
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_224
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 297
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_225
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 298
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_226
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 292
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_227
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 298
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_228
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 298
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_229
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 298
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_230
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 298
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_231
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 324
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_232
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 258
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_233
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 258
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_234
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 258
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_235
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 258
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_236
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 258
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_237
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 258
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_238
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 256
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_239
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 258
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_240
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 258
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_241
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 258
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_242
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 250
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_243
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 250
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_244
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 250
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_245
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 250
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_246
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 250
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_247
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 250
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_248
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 250
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_249
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 231
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_250
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 231
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_251
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 231
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_252
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 231
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_253
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 231
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_254
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 231
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_255
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 231
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_256
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 231
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_257
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 233
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_258
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 233
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_259
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 233
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_260
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 233
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_261
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 233
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_262
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 231
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_263
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 233
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_264
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 233
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_265
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 178
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_266
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 182
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_267
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 182
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_268
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 182
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_269
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 178
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_270
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 182
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_271
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 184
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_272
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 181
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_273
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 183
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_274
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 184
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_275
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 186
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_276
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 184
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_277
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 190
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_278
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 190
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_279
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 194
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_280
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 194
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_281
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 180
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_282
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 180
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_283
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 180
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_284
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 180
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_285
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 180
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_286
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 180
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_287
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 182
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_288
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 196
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_289
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 188
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_290
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 196
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_291
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 188
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_292
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 196
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_293
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 188
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_294
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 196
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_295
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 180
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_296
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 181
+        width: 53
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_297
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_298
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 178
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_299
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 186
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_300
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 186
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_301
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 186
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_302
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 186
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_303
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 180
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_304
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 180
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_305
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 180
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_306
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 159
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_307
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 164
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_308
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 162
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_309
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 154
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_310
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 154
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_311
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 152
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_312
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 154
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_313
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 154
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_314
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 156
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_315
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 156
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_316
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 154
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_317
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 156
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_318
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 156
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_319
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 156
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_320
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 157
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_321
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_322
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 105
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_323
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 103
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_324
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 103
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_325
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 97
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_326
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 97
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_327
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_328
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 105
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_329
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 111
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_330
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 109
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_331
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 105
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_332
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 105
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_333
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 105
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_334
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 105
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_335
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_336
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_337
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 107
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_338
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 107
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_339
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 107
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_340
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 107
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_341
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 107
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_342
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 107
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_343
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 107
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_344
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 107
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_345
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 107
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_346
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 107
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_347
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 106
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_348
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 103
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_349
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 97
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_350
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 97
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSprite_351
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 882
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
